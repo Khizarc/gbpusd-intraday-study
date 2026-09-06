@@ -19,12 +19,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
----
-
-This license covers the CODE in this repository only.
-
-It does not cover the GBP/USD price data the code analyses. That data is
-supplied by HistData.com under their own terms, is not included in this
-repository, and is not redistributed by it. See the README section
-"Getting the data".

@@ -590,5 +590,12 @@ Stated plainly, because they bound what the findings support:
 
 ---
 
-*Data courtesy of [HistData.com](https://www.histdata.com/), used under their
-terms and not redistributed here.*
+## License
+
+The **code** in this repository is MIT licensed — see [LICENSE](LICENSE).
+
+That licence covers the code only. It does **not** cover the GBP/USD price
+data the code analyses: that is supplied by
+[HistData.com](https://www.histdata.com/) under their own terms, is not
+included in this repository, and is not redistributed by it. See
+[Getting the data](#getting-the-data).
