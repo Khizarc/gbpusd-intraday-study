@@ -1,0 +1,12 @@
+# Developed and validated against these versions on Python 3.13.
+#
+# Deliberately three packages. Every statistical estimator in this project --
+# the variance ratio and its robust z, Newey-West standard errors, the
+# Lee-Mykland jump threshold, the BNS decomposition, the day-block bootstrap
+# and White's Reality Check -- is written out in numpy rather than imported,
+# so neither scipy nor statsmodels is needed. test_estimators.py is what
+# justifies that choice: it checks each one against synthetic data with a
+# known answer.
+pandas>=2.2,<4
+numpy>=1.26,<3
+pyarrow>=15

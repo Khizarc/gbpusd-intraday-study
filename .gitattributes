@@ -1,0 +1,6 @@
+# Normalise line endings so the repo is identical on Windows, macOS and Linux.
+* text=auto eol=lf
+
+# Vendor data, if anyone ever chooses to track it locally.
+*.csv text eol=lf
+*.parquet binary
